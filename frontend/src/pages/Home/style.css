@@ -1,0 +1,9 @@
+.container h1 {
+  color: darkslateblue;
+  padding: 240px 0;
+  text-align: center;
+}
+
+.container h1 img{
+  width: 50px;
+}
